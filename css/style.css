@@ -1,0 +1,25 @@
+   header{ justify-content: center;
+    background-color: #cfa8be;
+    padding: 40px;
+    display: flex;
+}
+.container {
+    width: 1400px;
+    display: flex;;
+    gap:2%;
+    flex-wrap: wrap;
+}
+body { margin: 0px; }
+.logo{
+	width: 28%;
+}
+section {
+	display: flex;
+	justify-content: center;
+}
+.col_1_2 {
+	width: 50%;
+	background: antiquewhite;
+}
+.col_1_2 div{padding: 25%;}
+img {max-width: 100%;}
